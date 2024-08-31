@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "15.7.0",
-    "npm": "6.13.4"
+    "node": "20.16.0",
+    "npm": "10.8.1"
   },
   "scripts": {
     "start": "nodemon server/server.js",
@@ -18,13 +18,13 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
-    "express": "^4.18.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
     "git": "^0.1.5",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.8.0",
-    "mongoose": "^6.6.4",
-    "nodemon": "^2.0.20",
+    "mongoose": "^8.6.0",
+    "nodemon": "^3.1.4",
     "react": "^18.3.1"
   }
 }

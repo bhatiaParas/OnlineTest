@@ -21,7 +21,7 @@ In the project directory, you can run:
 
 # For Student
 
-## email: student@gmail.com
+## email: parasbhatia@gmail.com
 ## Password: test1234
 
 

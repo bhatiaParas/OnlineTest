@@ -9,13 +9,7 @@ const usersRoute = require("./routes/usersRoute");
 const examsRoute = require("./routes/examsRoute");
 const resportsRoute = require("./routes/reportsRoute");
 
-app.use(cors(
-  {
-    origin: ["https://online-exam-app.vercel.app"],
-    methods: ["POST", "GET" ],
-    credentials: true
-  }
-))
+
 
 app.get("/", (req, res) => {
   res.json("Hello");

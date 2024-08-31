@@ -2,27 +2,27 @@
 
 Install for both client and server 
 
-## npm install 
+# `npm install`
 
-### Available Scripts
+# Available Scripts
 
 In the project directory, you can run:
 
-#### `npm run start`
+# `npm run start`
 
-##### `npm run client`
+# `npm run client`
 
-###### LOGIN CREDENTIALS: 
+# LOGIN CREDENTIALS: 
 
-###### For Teacher 
+# For Teacher 
 
-email: teacher@gmail.com
-Password: test1234
+ # email: teacher@gmail.com
+# Password: test1234
 
-###### For Student
+# For Student
 
-email: student@gmail.com
-Password: test1234
+# email: student@gmail.com
+# Password: test1234
 
 
 

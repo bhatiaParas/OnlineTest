@@ -17,7 +17,9 @@ app.use(cors(
   }
 ))
 
-
+app.get("/", (req, res) => {
+  res.json("Hello");
+})
 app.use("/api/users", usersRoute);
 app.use("/api/exams", examsRoute);
 app.use("/api/reports", resportsRoute);
